@@ -307,7 +307,7 @@ _Cette partie est à faire sur le même dépôt que la partie précédente. C'es
 
   - Que se passe-t-il et pourquoi ?
 
--> Il y a un conflit car 
+-> Il y a un conflit car il ne peut pas modifier deux fois la même ligne  
 
 - Lancer un `git status`
 
